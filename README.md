@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a fullstack developer living in Brazil and working remotely developing e-commerce solutions.
+I'm a front-end developer living in Brazil and working remotely developing e-commerce solutions.
   
 ### 💻 I’m currently learning ...
   - React.js
