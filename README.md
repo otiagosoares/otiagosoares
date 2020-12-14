@@ -5,6 +5,7 @@ I'm a front-end developer living in Brazil and working remotely developing e-com
   - React.js
   - React Native
   - Node.js
+  - PHP
 
 ### Find me elsewhere 🌎
 
