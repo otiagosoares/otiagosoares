@@ -3,7 +3,6 @@ I'm a front-end developer living in Brazil and working remotely developing e-com
   
 ### 💻 I’m currently learning ...
   - React.js
-  - React Native
   - Node.js
   - PHP
 
