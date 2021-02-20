@@ -9,7 +9,7 @@ I'm a front-end developer living in Brazil and working remotely developing e-com
 ### Find me elsewhere 🌎
 
 🚀 [Site](https://tiagosoares.com.br) <br>
-📸 [Instagram](https://instagram.com/otiagosoares) <br>
+<!-- 📸 [Instagram](https://instagram.com/otiagosoares) <br>-->
 💼 [LinkedIn](https://www.linkedin.com/in/otiagosoares) <br>
 
 <!--
