@@ -6,7 +6,7 @@ I'm a front-end developer living in Brazil and working remotely developing e-com
   - Node.js
   - PHP
 
-### Find me elsewhere 🌎
+### Find me 🌎
 
 🚀 [Site](https://tiagosoares.com.br) <br>
 <!-- 📸 [Instagram](https://instagram.com/otiagosoares) <br>-->
