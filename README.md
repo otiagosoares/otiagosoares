@@ -4,8 +4,6 @@ I'm a front-end developer living in Brazil and working remotely developing web s
 ### 💻 Currently learning ...
   - React.js
   - Next.js
-  - Strapi
-  - Node.js
 
 ### Find me 🌎
 
